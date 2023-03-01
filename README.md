@@ -1,1 +1,1 @@
-# Wine_Prediction
+# Used multiple ML algorithms to predict red wine quality based on physicochemical properties.
